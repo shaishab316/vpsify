@@ -1,0 +1,18 @@
+<svg width="240" height="80" viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg"
+  style="background:#ffffff">
+  <g transform="translate(5,10)">
+    <rect x="0" y="0" width="60" height="18" rx="4" fill="#4F46E5" />
+    <rect x="0" y="22" width="60" height="18" rx="4" fill="#6366F1" />
+    <rect x="0" y="44" width="60" height="18" rx="4" fill="#818CF8" />
+
+    <circle cx="12" cy="9" r="3" fill="white" />
+    <circle cx="12" cy="31" r="3" fill="white" />
+    <circle cx="12" cy="53" r="3" fill="white" />
+
+    <path d="M45 8 L38 22 H46 L42 38 L56 20 H48 L52 8 Z" fill="white" />
+  </g>
+
+  <text x="85" y="50" font-family="Inter, sans-serif" font-size="40" font-weight="800" fill="#111">
+    VPS<tspan fill="#4F46E5">ify</tspan>
+  </text>
+</svg>
